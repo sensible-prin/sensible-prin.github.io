@@ -9,9 +9,9 @@ description: "XXXX provaWrite an awesome description for your new site here. You
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Dr. Anna Bernasconi
   pic: 1
-  position: Lead Designer
+  position: Politecnico di Milano
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Prof. Matteo Chiara
   pic: 2
-  position: Lead Marketer
+  position: Università degli Studi di Milano
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Prof. Stefano Ceri
   pic: 3
-  position: Lead Developer
+  position: Politecnico di Milano
   social:
     - title: twitter
       url: #
@@ -41,6 +41,15 @@ people:
       url: #
     - title: google-plus
       url: #
+
+
+- name: Tommaso Alfonsi
+  pic: 4
+  position: Politecnico di Milano
+
+- name: Prof. Alessandro Campi
+  pic: 4
+  position: Politecnico di Milano
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
