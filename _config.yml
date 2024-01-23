@@ -10,7 +10,7 @@ description: "XXXX provaWrite an awesome description for your new site here. You
 # Team names, titles and social links
 people:
 - name: Dr. Anna Bernasconi
-  pic: anna
+  pic: 1
   position: Politecnico di Milano
   social:
     - title: twitter
