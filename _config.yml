@@ -17,17 +17,16 @@ people:
   pic: 2
   position: Università degli Studi di Milano
 
-- name: Tommaso Alfonsi
+- name: Prof. Stefano Ceri
   pic: 3
   position: Politecnico di Milano
 
-
-- name: Prof. Stefano Ceri
+- name: Tommaso Alfonsi
   pic: 4
   position: Politecnico di Milano
 
 - name: Prof. Alessandro Campi
-  pic: 4
+  pic: 5
   position: Politecnico di Milano
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
