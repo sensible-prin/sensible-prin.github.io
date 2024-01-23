@@ -12,38 +12,17 @@ people:
 - name: Dr. Anna Bernasconi
   pic: 1
   position: Politecnico di Milano
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 - name: Prof. Matteo Chiara
   pic: 2
   position: Università degli Studi di Milano
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Prof. Stefano Ceri
-  pic: 3
-  position: Politecnico di Milano
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 
 - name: Tommaso Alfonsi
+  pic: 3
+  position: Politecnico di Milano
+
+
+- name: Prof. Stefano Ceri
   pic: 4
   position: Politecnico di Milano
 
