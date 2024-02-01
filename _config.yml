@@ -11,23 +11,27 @@ description: "XXXX provaWrite an awesome description for your new site here. You
 people:
 - name: Dr. Anna Bernasconi
   pic: 1
-  position: Politecnico di Milano
+  position: Research Assistant (Politecnico di Milano)
 
 - name: Prof. Matteo Chiara
   pic: 2
-  position: Università degli Studi di Milano
+  position: Associate Professor (Università degli Studi di Milano)
 
 - name: Prof. Stefano Ceri
   pic: 3
-  position: Politecnico di Milano
+  position: Full Professor (Politecnico di Milano)
 
 - name: Tommaso Alfonsi
   pic: 4
-  position: Politecnico di Milano
+  position: Postdoc Researcher (Politecnico di Milano)
 
 - name: Prof. Alessandro Campi
   pic: 5
-  position: Politecnico di Milano
+  position: Research Assistant (Politecnico di Milano)
+
+- name: Luca Cassenti
+  pic: 6
+  position: Master Student (Politecnico di Milano)
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
