@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Motivation 
+subtitle: and context
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -10,6 +10,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: In March 2020, COVID-19 was declared a global pandemic. The research community mounted an unprecedented effort for understanding the disease and its etiological agent, delivering effective diagnostics, planning vaccination programmes, and informing decision making and public health policies. In this context, genomic surveillance, the study of the evolution of a pathogen through the sequencing of its genome, was universally recognized as a first line of defense to contrast the pandemic. All viruses mutate as they replicate and spread in a population; the majority of mutations are not relevant from an epidemiological perspective. However, epidemiologically relevant mutations might confer a selective advantage and are rapidly fixed in the pathogen genome, leading to the emergence of “variants of interest” or “variants of concern”.
+Global pandemics are an accelerating threat: loss of habitats, urbanization, and globalization create an environment conducive to infectious disease outbreaks and spread. In the wake of climate change, disease vectors such as Asian tiger mosquitos are now endemic in Europe – and linked to outbreaks of diseases (e.g., Zika virus, Chikungunya virus).
+SENSIBLE aims to leverage the knowledge gained on COVID-19 for building novel methods that can handle and analyze pathogens’ genome sequencing data in current and future viral epidemics, and implement an early warning system based on data-driven analysis.
+SENSIBLE will develop an integrated framework for genomics surveillance of human pathogens, based on the integration of: 1) data-based analysis to summarize patterns of evolution through space and time; 2) data and knowledge-based analysis (retrieval, computation, or prediction) to formulate testable biological hypotheses and identify epidemiologically relevant evolutionary events (positive selection, change in protein function/affinity, immune escape). The framework will be developed and validated using a selection of use cases from COVID-19; a final assessment will be performed on independent data from the recent Monkeypox (2022), Zika (2015-2016), and Ebola (2013-2016) epidemics.
+SENSIBLE will advance the state of the art in understanding the various facets of genomic surveillance, depending on the available data and the domain context. We will merge the experience gathered on COVID-19 with the considerable knowledge corpus that has become openly available for viral pathogens research. The project results will have a substantial impact in the early characterization of novel viral pathogens and of their dangerousness in terms of prevalence, infectivity, and transmissibility. More importantly, the framework developed by SENSIBLE will provide a highly useful tool to assist decision makers in healthcare.
 ---

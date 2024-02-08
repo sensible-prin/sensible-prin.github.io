@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Our assets
+subtitle: 
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: The interplay of genomic data, clinical data, and epidemiological data offers a fertile ground for data science problems. We are interested in problems with well-grounded hypotheses that correspond to big data challenges. During the three years of the COVID-19 pandemic, we have familiarized myself with the bioinformatics aspects of virology and engaged in several discussions with experts in the domain. Important work has been produced on data integration and visualization systems, as well as on data analysis of the immunological impact of mutations, the correlation between mutations co-occurrence and viral evolution, recognition of variants in their early stages, and monitoring of the evolution of mutations [see Publications]. Collectively, these results demonstrate a great opportunity for data-driven services for viral genomic surveillance. This line of research will continue to grow thanks to the recently started  SENSIBLE PRIN project. Our last works target the possibility of identifying viral recombination events on a pandemic scale (e.g., SARS-CoV-2 and Monkeypox) and the detection of reassortment events (e.g. in Influenza viruses), in collaboration with the renowned virologist Prof. Ilaria Capua (Johns Hopkins University).
 ---
