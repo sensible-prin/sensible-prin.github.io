@@ -1,14 +1,7 @@
 ---
-title: Funding
-subtitle: and duration
+title: Funding and duration
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: SENSIBLE has been funded within the MUR PRIN PNRR 2022 scheme; it has received funding for ~240K Euros (186K to Politecnico di Milano Research Unit and 54K to University of Milan Research Unit). The research will be carried out December 2023 — November 2025.
 ---
