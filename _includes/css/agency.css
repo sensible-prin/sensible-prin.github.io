@@ -15,8 +15,8 @@ body {
 }
 
 .myclass {
-    color: #{{ site.data.template.color.primary }};
-    font-size: 30px;
+    color: #{{ site.data.template.color.muted }};
+    font-size: 24px;
 }
 
 .text-primary {
