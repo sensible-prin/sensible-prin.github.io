@@ -41,7 +41,7 @@ body {
 }
 
 .publinks {
-    color: #{{ site.data.template.color.secondary-dark }};
+    color: #{{ site.data.template.color.muted }};
     font-size: 75%;
 }
 
